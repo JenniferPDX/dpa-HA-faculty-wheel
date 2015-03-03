@@ -1,0 +1,158 @@
+[
+  {
+    "name": "AA",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          { "colour": "#36483b", "name": "XNON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "XPAP 615: ADMINISTRATIVE PROCESS", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          { "colour": "#667A66", "name": "XMPA", "size": 5 },
+          { "colour": "#667A66", "name": "XPAP", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+         { "colour": "#C0CCC0", "name": "XLUND CHAIX/NPO/GOVT PARTN. FAILURES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "XBLIND REVIEWER, NVSQ, NML", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+         { "colour": "#ae4a1c", "name": "XJUVENILE JUSTICE COLL. PARTNERS", "size": 5 },
+         { "colour": "#ae4a1c", "name": "XWEST COAST NP DATA CONF", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+         { "colour": "#fd8d3c", "name": "XNASSPA NP SECTION, EXBD", "size": 5 },
+         { "colour": "#fd8d3c", "name": "XPAP ADMISSIONS COM", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "XMPA ACCREDITATION, LEAD", "size": 5 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BB",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          { "colour": "#36483b", "name": "XNON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "XPAP 615: ADMINISTRATIVE PROCESS", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          { "colour": "#667A66", "name": "XMPA", "size": 5 },
+          { "colour": "#667A66", "name": "XPAP", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+         { "colour": "#C0CCC0", "name": "XLUND CHAIX/NPO/GOVT PARTN. FAILURES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "XBLIND REVIEWER, NVSQ, NML", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+         { "colour": "#ae4a1c", "name": "XJUVENILE JUSTICE COLL. PARTNERS", "size": 5 },
+         { "colour": "#ae4a1c", "name": "XWEST COAST NP DATA CONF", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+         { "colour": "#fd8d3c", "name": "XNASSPA NP SECTION, EXBD", "size": 5 },
+         { "colour": "#fd8d3c", "name": "XPAP ADMISSIONS COM", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "XMPA ACCREDITATION, LEAD", "size": 5 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CC",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING",
+        "children": [
+          { "colour": "#36483b", "name": "XNON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "XPAP 615: ADMINISTRATIVE PROCESS", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          { "colour": "#667A66", "name": "XMPA", "size": 5 },
+          { "colour": "#667A66", "name": "XPAP", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+         { "colour": "#C0CCC0", "name": "XLUND CHAIX/NPO/GOVT PARTN. FAILURES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "XBLIND REVIEWER, NVSQ, NML", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/=PARTNERS",
+        "children": [
+         { "colour": "#ae4a1c", "name": "XJUVENILE JUSTICE COLL. PARTNERS", "size": 5 },
+         { "colour": "#ae4a1c", "name": "XWEST COAST NP DATA CONF", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "COMS &=TASK FORCES",
+        "children": [
+         { "colour": "#fd8d3c", "name": "XNASSPA NP SECTION, EXBD", "size": 5 },
+         { "colour": "#fd8d3c", "name": "XPAP ADMISSIONS COM", "size": 5 }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          { "colour": "#fdbe85", "name": "XMPA ACCREDITATION, LEAD", "size": 5 }
+        ]
+      }
+    ]
+  }
+]
