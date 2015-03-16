@@ -208,7 +208,6 @@
           { "colour": "#36483b", "name": "PAH 660: CONTEMPORARY RES-HS&P", "size": 5 },
           { "colour": "#36483b", "name": "PAH 671: HEALTH POLICY", "size": 5 },
           { "colour": "#36483b", "name": "PAH 686: INTRO-HEALTH ECON", "size": 5 },
-          { "colour": "#36483b", "name": "PAH 699: MANY TOPICS", "size": 5 },
           { "colour": "#36483b", "name": "PAP 603: DISSERTATION", "size": 5 }
         ]
       },
@@ -216,7 +215,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "MPA:HA and MPH-HMP", "size": 5 },
           { "colour": "#667A66", "name": "PAP, STUDENT COMS", "size": 5 }
         ]
       },
@@ -224,14 +223,22 @@
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-         { "colour": "#C0CCC0", "name": "PLACEHOLDER", "size": 5 }
+         { "colour": "#C0CCC0", "name": "HEALTH/HEALTH ECONOMICS", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-         { "colour": "#ae4a1c", "name": "PLACEHOLDER", "size": 5 }
+         { "colour": "#ae4a1c", "name": "NATIONAL INSTITUTE OF HEALTH", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OREGON HEALTH AUTHORITY", "size": 5 },
+         { "colour": "#ae4a1c", "name": "FOGARTY PGM INTL TRAIN (NIH)", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OHSU CTR HLTH SYS EFFECT", "size": 5 },
+         { "colour": "#ae4a1c", "name": "UC BERKELEY SCH OF PUB HLTH", "size": 5 },
+         { "colour": "#ae4a1c", "name": "UC DENVER SCH OF PUB HLTH", "size": 5 },
+         { "colour": "#ae4a1c", "name": "RW JOHNSON FOUNDATION", "size": 5 },
+         { "colour": "#ae4a1c", "name": "PROVIDENCE CTR: OUTCOMES RES& ED", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OREGON PRIMARY CARE ASSN", "size": 5 }
         ]
       },
       {
@@ -241,7 +248,13 @@
          { "colour": "#fd8d3c", "name": "P & T COMS, CHAIR", "size": 5 },
          { "colour": "#fd8d3c", "name": "COMPETENCIES TASK GRP", "size": 5 },
          { "colour": "#fd8d3c", "name": "STUDENT ASSESSMENT", "size": 5 },
-         { "colour": "#fd8d3c", "name": "MPA/HEALTHCOM", "size": 5 }
+         { "colour": "#fd8d3c", "name": "MPA/HEALTH COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "ABSTACT REV, AMER PH ASSOC", "size": 5 },
+         { "colour": "#fd8d3c", "name": "CURRICULUM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "NP; HLTH SYS POL SEARCH COMS", "size": 5 },
+         { "colour": "#fd8d3c", "name": "HUMAN SUBJECTS RRC (IRB)", "size": 5 },
+         { "colour": "#fd8d3c", "name": "COM TO CREATE SCH OF PH", "size": 5 },
+         { "colour": "#fd8d3c", "name": "DPA MPP IMPL COORD, PLANNING", "size": 5 }
         ]
       },
       {
