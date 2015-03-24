@@ -150,33 +150,53 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 }
+          { "colour": "#667A66", "name": "MPA:HA and MPH-HMP", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-         { "colour": "#C0CCC0", "name": "PLACEHOLDER", "size": 5 }
+         { "colour": "#C0CCC0", "name": "COORDINATED CARE ORG STUDIES", "size": 5 },
+         { "colour": "#C0CCC0", "name": "EVAL OF HLTH ENGAGEMENT MODEL", "size": 5 },
+         { "colour": "#C0CCC0", "name": "FEDERALISM,  AFFORDABLE CARE ACT", "size": 5 },
+         { "colour": "#C0CCC0", "name": "OPINIONS, SUPPORT, HLTH SYS REFORM", "size": 5 },
+         { "colour": "#C0CCC0", "name": "PATIENT-CENTERED PRIM CARE HOME", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-         { "colour": "#ae4a1c", "name": "PLACEHOLDER", "size": 5 }
+         { "colour": "#ae4a1c", "name": "FELS INST OF GOVT, UPENN", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OHA", "size": 5 },
+         { "colour": "#ae4a1c", "name": "OR PATIENT SAFETY COM, VC, GOV APPT", "size": 5 },
+         { "colour": "#ae4a1c", "name": "PEBB", "size": 5 },
+         { "colour": "#ae4a1c", "name": "PROVIDENCE CTR, OUTCOMES RES& ED", "size": 5 },
+         { "colour": "#ae4a1c", "name": "R W JOHNSON FOUNDATION", "size": 5 },
+         { "colour": "#ae4a1c", "name": "ROCKEFELLER INST OF GOVT, NYU", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
+         { "colour": "#fd8d3c", "name": "ACADEMY HEALTH, ABSTR REVIEW COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "ABSTRACT REVIEW FOR AMER PH ASSOC", "size": 5 },
+         { "colour": "#fd8d3c", "name": "ACCRED LEAD CAHME", "size": 5 },
+         { "colour": "#fd8d3c", "name": "ADMISSIONS, CHAIR", "size": 5 },
          { "colour": "#fd8d3c", "name": "ADVSIORY", "size": 5 },
-         { "colour": "#fd8d3c", "name": "ACCRED, LEAD", "size": 5 },
-         { "colour": "#fd8d3c", "name": "ADMISSIONS", "size": 5 },
+         { "colour": "#fd8d3c", "name": "AS BUDGET COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "COM TO CREATE SCH OF PH", "size": 5 },
+         { "colour": "#fd8d3c", "name": "DEAN'S STRATEGIC ENROLL MGT COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "FACULTY SENATE BUDGET COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "HEALTH SYSTEM POLICY SEARCH", "size": 5 },
          { "colour": "#fd8d3c", "name": "MPA/ HEALTH COM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "OR REPRODUCTIVE HLTH, ADVIS BRD MEM", "size": 5 },
+         { "colour": "#fd8d3c", "name": "RES ADVISORY FOR VP RES/STRAT PARTN", "size": 5 },
          { "colour": "#fd8d3c", "name": "STRAT ENROLL MGT", "size": 5 },
-         { "colour": "#fd8d3c", "name": "AS BUDGET COM", "size": 5 }
+         { "colour": "#fd8d3c", "name": "UPSILON PHI DELTA HLTH MGT HON SOC", "size": 5 }
         ]
       },
       {
