@@ -1,4 +1,6 @@
-[
+{
+      "name": "Health Administration",
+      "children": [
   {
     "name": "GELMON",
     "children": [
@@ -285,3 +287,4 @@
     ]
   }
 ]
+}
