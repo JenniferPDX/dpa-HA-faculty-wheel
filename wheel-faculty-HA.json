@@ -44,7 +44,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
          { "colour": "#fd8d3c", "name": "P & T COMS", "size": 5 }
         ]
@@ -107,7 +107,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
          { "colour": "#fd8d3c", "name": "MPP COM", "size": 5 },
          { "colour": "#fd8d3c", "name": "MPA/HEALTH COM", "size": 5 },
@@ -182,7 +182,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
          { "colour": "#fd8d3c", "name": "ADMISSIONS COM, CHAIR", "size": 5 },
          { "colour": "#fd8d3c", "name": "ACA SEN BUDGET COM", "size": 5 },
@@ -261,7 +261,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
          { "colour": "#fd8d3c", "name": "P & T COMS, CHAIR", "size": 5 },
          { "colour": "#fd8d3c", "name": "COMPETENCIES TASK GRP", "size": 5 },
