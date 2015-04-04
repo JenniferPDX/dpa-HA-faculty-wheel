@@ -12,13 +12,14 @@
           { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
           { "colour": "#36483b", "name": "PA 509: ORGANIZTL EXPERIENCE", "size": 5 },
           { "colour": "#36483b", "name": "PA 603: DISSERTATION", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 509: PRAC: ORGANIZTL EXPERIENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 544: LDRSHP, GOVERNCE HLTH SVCS", "size": 5 },
           { "colour": "#36483b", "name": "PAH 574: HEALTH SYSTEMS ORG", "size": 5 },
           { "colour": "#36483b", "name": "PAH 578: CONT IMPRV-HLTH CARE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 588: PROG EVAL/MGMT HLTH", "size": 5 },
-          { "colour": "#36483b", "name": "PAH 603: DISSERTATION", "size": 5 },
-          { "colour": "#36483b", "name": "PAP 603: DISSERTATION", "size": 5 }
+          { "colour": "#36483b", "name": "PAH 603: THESIS CREDIT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 603: THESIS CREDIT", "size": 5 }
         ]
       },
       {
@@ -137,6 +138,7 @@
         "colour": "#36483b",
         "name": "TEACHING",
         "children": [
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 509: ORGANIZATIONAL EXPERIENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 541: ORG BEHAVIOR HLTH", "size": 5 },
           { "colour": "#36483b", "name": "PAH 542: MARKETING HEALTH SERVICES", "size": 5 },
@@ -213,18 +215,19 @@
         "children": [
           { "colour": "#36483b", "name": "PAP (Teach/exams/theses)", "size": 5 },
           { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#36483b", "name": "PA 603: DISSERTATION", "size": 5 },
+          { "colour": "#36483b", "name": "PA 603: THESIS CREDIT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "PAH 510: GLOBAL HEALTH SYSTEMS", "size": 5 },
           { "colour": "#36483b", "name": "PAH 571: HEALTH POLICY", "size": 5 },
           { "colour": "#36483b", "name": "PAH 574: HEALTH SYSTEMS ORG", "size": 5 },
           { "colour": "#36483b", "name": "PAH 575: ADVANCED HEALTH POLICY", "size": 5 },
           { "colour": "#36483b", "name": "PAH 586: INTRO-HEALTH ECON", "size": 5 },
           { "colour": "#36483b", "name": "PAH 587: FIN MGMT-HEALTH SVCS", "size": 5 },
-          { "colour": "#36483b", "name": "PAH 603: DISSERTATION", "size": 5 },
+          { "colour": "#36483b", "name": "PAH 603: THESIS CREDIT", "size": 5 },
           { "colour": "#36483b", "name": "PAH 660: CONTEMPORARY RES-HS&P", "size": 5 },
           { "colour": "#36483b", "name": "PAH 671: HEALTH POLICY", "size": 5 },
           { "colour": "#36483b", "name": "PAH 686: INTRO-HEALTH ECON", "size": 5 },
-          { "colour": "#36483b", "name": "PAP 603: DISSERTATION", "size": 5 }
+          { "colour": "#36483b", "name": "PAP 603: THESIS CREDIT", "size": 5 }
         ]
       },
       {
